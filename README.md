@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohamed Hesham Ali
-- 👀 I’m interested in web development
+- 👀 I’m a software developer who is interested in web development.
 - 🌱 I’m currently learning React.js & quasar & Angular.js
-- 💞️ I’m looking to collaborate on Angular.js OR React.js project
+- 💞️ I’m looking to collaborate on Angular.js OR React.js projects
 - 📫 How to reach me mohamedhisham1511@gmail.com
 
 <!---
