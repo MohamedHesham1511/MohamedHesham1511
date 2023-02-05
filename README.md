@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Hesham! 👋
 
-- 👩‍💻 I’m a software developer and I'm interested in web development.
+- 👩‍💻 A software developer who is interested in web development.
 
 - 📫 How to reach me mohamedhisham1511@gmail.com
 
