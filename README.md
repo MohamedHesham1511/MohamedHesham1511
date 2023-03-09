@@ -10,6 +10,14 @@ Hello and welcome to my GitHub profile! My name is Mohamed Hesham, and I am a fr
 - Familiarity with agile development methodologies and tools such as Jira.
 - Experience with cross-browser compatibility, responsive design, and web accessibility.
 
+## Education
+
+- Bachelor's degree in Engineering Material Science from the German University in Cairo (GUC)
+- 9-month scholarship in Full Stack Web Development from The Information Technology Institute (ITI)
+
+## Contact
+
+- Feel free to contact me at any time through my GitHub profile or by email at mohamedhesham@gmail.com. I am always open to discussing new projects and opportunities.
 - 📫 How to reach me mohamedhisham1511@gmail.com
 
 <!---
