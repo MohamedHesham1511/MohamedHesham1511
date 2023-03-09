@@ -17,8 +17,7 @@ Hello and welcome to my GitHub profile! My name is Mohamed Hesham, and I am a fr
 
 ## Contact
 
-- Feel free to contact me at any time through my GitHub profile or by email at mohamedhesham@gmail.com. I am always open to discussing new projects and opportunities.
-- 📫 How to reach me mohamedhisham1511@gmail.com
+- Feel free to contact me at any time through my GitHub profile or by email at mohamedhisham1511@gmail.com. I am always open to discussing new projects and opportunities.
 
 <!---
 MohamedHesham1511/MohamedHesham1511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
