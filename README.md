@@ -1,6 +1,14 @@
-# Hi, I'm Mohamed Hesham! 👋
+# Mohamed Hesham - Frontend Developer
 
-- 👩‍💻 A software developer who is interested in web development.
+Hello and welcome to my GitHub profile! My name is Mohamed Hesham, and I am a frontend developer with over 2 years of experience in the field. I am a graduate of the German University in Cairo (GUC) and have also completed a 9-month scholarship at The Information Technology Institute (ITI).
+
+## Skills
+
+- Proficient in HTML, CSS, JavaScript, Vue and Angular.
+- Experience with various frontend frameworks such as Bootstrap and Material UI.
+- Knowledge of version control systems such as Git and GitHub.
+- Familiarity with agile development methodologies and tools such as Jira.
+- Experience with cross-browser compatibility, responsive design, and web accessibility.
 
 - 📫 How to reach me mohamedhisham1511@gmail.com
 
